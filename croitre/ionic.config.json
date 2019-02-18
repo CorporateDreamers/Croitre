@@ -1,6 +1,8 @@
 {
   "name": "croitre",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "bed05504"
 }
